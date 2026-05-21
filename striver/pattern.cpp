@@ -378,11 +378,142 @@ void p18(int n){
     }
 }
 
+void p19(int n){
+    /*
+        if n=5 theb 
+        **********
+        ****--****
+        ***----***
+        **------**
+        *--------*
+        *--------*
+        **------**
+        ***----***
+        ****--****
+        **********
+    */
+
+    //upper half
+    for(int i=0;i<n;i++){
+        //star 1
+        for(int star=n-i;star>=1;star--){
+            cout<<"*";
+        }
+        //spaces
+        for(int spaces=0;spaces<=2*i-1;spaces++){
+            cout<<"-";
+        }
+        //star 2
+        for(int star=n-i;star>=1;star--){
+            cout<<"*";
+        }
+        cout<<endl;
+    }
+    //lower half
+    for(int i=1;i<=n;i++){
+        //star 1
+        for(int star=1;star<=i;star++){
+            cout<<"*";
+        }
+        //spaces
+        for(int spaces=0;spaces<=2*n-2*i-1;spaces++){
+            cout<<"-";
+        }
+        //star 2
+        for(int star=1;star<=i;star++){
+            cout<<"*";
+        }
+        cout<<endl;
+    }
+}
+
+void p20(int n){
+    /*
+        if n=5 then
+        *--------*
+        **------**
+        ***----***
+        ****--****
+        **********
+        ****--****
+        ***----***
+        **------**
+        *--------*
+    */
+   //upper half
+    for(int i=1;i<=n;i++){
+        //star 1
+        for(int star=1;star<=i;star++){
+            cout<<"*";
+        }
+        //spaces
+        for(int spaces=0;spaces<=2*n-2*i-1;spaces++){
+            cout<<"-";
+        }
+        //star 2
+        for(int star=1;star<=i;star++){
+            cout<<"*";
+        }
+        cout<<endl;
+    }
+    //lower half
+    for(int i=1;i<n;i++){
+        //star 1
+        for(int star=n-i;star>=1;star--){
+            cout<<"*";
+        }
+        //spaces
+        for(int spaces=0;spaces<=2*i-1;spaces++){
+            cout<<"-";
+        }
+        //star 2
+        for(int star=n-i;star>=1;star--){
+            cout<<"*";
+        }
+        cout<<endl;
+    }
+}
+
+void p21(int n){
+    /*
+        if n=5 then
+        *****
+        *   *
+        *   *
+        *   *
+        *****
+    */
+
+    for(int i=1;i<=n;i++){
+        if(i==1||i==5){
+            for(int j=1;j<=n;j++){
+                cout<<"*";
+            }
+        }
+    
+        for(int j=1;j<=n;j++){
+            if(j==1){
+                cout<<"*";
+            }
+            else if(j==5){
+                if(i==1||i==5) continue;
+                for(int spaces=1;spaces<=n-1;spaces++){
+                    cout<<" ";
+                }
+                cout<<"*";
+            }
+        }
+        
+        
+        cout<<endl;
+    }
+}
+
 int main(){
     int n;
     cout<<"Enter value of n: ";
     cin>>n;
 
-    p18(n);
+    p21(n);
 
 }

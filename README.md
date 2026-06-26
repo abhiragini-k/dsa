@@ -6,6 +6,7 @@ Tracking my dsa journey and motivate myself to be consistent
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/abhiragini-k/dsa/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/abhiragini-k/dsa/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/abhiragini-k/dsa/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |

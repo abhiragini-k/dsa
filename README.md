@@ -40,10 +40,12 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhiragini-k/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/abhiragini-k/dsa/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhiragini-k/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0704-binary-search](https://github.com/abhiragini-k/dsa/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhiragini-k/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0704-binary-search](https://github.com/abhiragini-k/dsa/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |

@@ -40,6 +40,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhiragini-k/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/abhiragini-k/dsa/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/abhiragini-k/dsa/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhiragini-k/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhiragini-k/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0704-binary-search](https://github.com/abhiragini-k/dsa/tree/master/0704-binary-search) |
@@ -51,6 +52,7 @@ Tracking my dsa journey and motivate myself to be consistent
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/abhiragini-k/dsa/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/abhiragini-k/dsa/tree/master/0125-valid-palindrome) |
 ## Recursion
 |  |
@@ -63,6 +65,7 @@ Tracking my dsa journey and motivate myself to be consistent
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/abhiragini-k/dsa/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhiragini-k/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |

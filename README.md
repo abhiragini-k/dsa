@@ -45,11 +45,13 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0169-majority-element](https://github.com/abhiragini-k/dsa/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhiragini-k/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0704-binary-search](https://github.com/abhiragini-k/dsa/tree/master/0704-binary-search) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/abhiragini-k/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhiragini-k/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/abhiragini-k/dsa/tree/master/0704-binary-search) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/abhiragini-k/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +72,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0075-sort-colors](https://github.com/abhiragini-k/dsa/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/abhiragini-k/dsa/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhiragini-k/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/abhiragini-k/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -86,4 +89,16 @@ Tracking my dsa journey and motivate myself to be consistent
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhiragini-k/dsa/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/abhiragini-k/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/abhiragini-k/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/abhiragini-k/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->

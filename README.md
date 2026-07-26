@@ -10,6 +10,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0066-plus-one](https://github.com/abhiragini-k/dsa/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/abhiragini-k/dsa/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/abhiragini-k/dsa/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhiragini-k/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhiragini-k/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/abhiragini-k/dsa/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhiragini-k/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhiragini-k/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/abhiragini-k/dsa/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhiragini-k/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
@@ -72,6 +74,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0075-sort-colors](https://github.com/abhiragini-k/dsa/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/abhiragini-k/dsa/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhiragini-k/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhiragini-k/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhiragini-k/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
 |  |

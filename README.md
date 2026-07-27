@@ -47,6 +47,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0215-kth-largest-element-in-an-array](https://github.com/abhiragini-k/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhiragini-k/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/abhiragini-k/dsa/tree/master/0704-binary-search) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhiragini-k/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhiragini-k/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
@@ -75,11 +76,13 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0169-majority-element](https://github.com/abhiragini-k/dsa/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhiragini-k/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhiragini-k/dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhiragini-k/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhiragini-k/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhiragini-k/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhiragini-k/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |

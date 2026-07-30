@@ -2,7 +2,12 @@ class Solution {
 public:
     int minimumPushes(string word) {
         int n=word.length();
-        /*
+        int group=n/8;
+        int rem=n%8;
+        return 4*group*(group+1) + rem*(group+1);
+    }
+};
+/*
         8 number in keypads
         g1:0-7 count=1 , g2:8-15 count=2 , so on...
         so if n/8 we will get no of filled groups
@@ -23,8 +28,3 @@ public:
         hence final formula:
             = 4(group(group+1)) + rem*(group+1)
         */
-        int group=n/8;
-        int rem=n%8;
-        return 4*group*(group+1) + rem*(group+1);
-    }
-};

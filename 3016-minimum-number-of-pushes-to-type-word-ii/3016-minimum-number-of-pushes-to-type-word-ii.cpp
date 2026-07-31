@@ -9,8 +9,7 @@ public:
         int ans=0;
         for(int i=0;i<26;i++){
             if(freq[i]==0) break;
-            int push=(i/8+1);
-            ans+=freq[i]*push;
+            ans+=freq[i]*(i/8+1);
         }
         return ans;
     }

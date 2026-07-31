@@ -30,6 +30,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0520-detect-capital](https://github.com/abhiragini-k/dsa/tree/master/0520-detect-capital) |
 | [2390-removing-stars-from-a-string](https://github.com/abhiragini-k/dsa/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhiragini-k/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhiragini-k/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0628-maximum-product-of-three-numbers](https://github.com/abhiragini-k/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhiragini-k/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhiragini-k/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhiragini-k/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -93,15 +95,18 @@ Tracking my dsa journey and motivate myself to be consistent
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhiragini-k/dsa/tree/master/0169-majority-element) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhiragini-k/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhiragini-k/dsa/tree/master/0169-majority-element) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhiragini-k/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhiragini-k/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhiragini-k/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhiragini-k/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
 | ------- |

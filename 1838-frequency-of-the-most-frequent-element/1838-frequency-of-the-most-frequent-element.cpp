@@ -2,15 +2,15 @@ class Solution {
 public:
     int maxFrequency(vector<int>& nums, int k) {
         sort(nums.begin(),nums.end());
-        int left=0,ans=1;
-        long long sum=0;
-        for(int right=0;right<nums.size();right++){
-            sum+=nums[right];
-            while((long long)nums[right]*(right-left+1)-sum>k){
-                sum-=nums[left];
+        long left=0 ,right=0, total=0, ans=0;
+        while(right<nums.size()){
+            total+=nums[right];
+            while(nums[right]*(right-left+1)>total+k){
+                total-=nums[left];
                 left++;
             }
-            ans=max(ans,right-left+1);
+            ans = max(ans,right-left+1);
+            right++;
         }
         return ans;
     }

@@ -10,6 +10,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0066-plus-one](https://github.com/abhiragini-k/dsa/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/abhiragini-k/dsa/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/abhiragini-k/dsa/tree/master/0486-predict-the-winner) |
+| [0507-perfect-number](https://github.com/abhiragini-k/dsa/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/abhiragini-k/dsa/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhiragini-k/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/abhiragini-k/dsa/tree/master/1406-stone-game-iii) |

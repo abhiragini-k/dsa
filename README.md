@@ -34,6 +34,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhiragini-k/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/abhiragini-k/dsa/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/abhiragini-k/dsa/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/abhiragini-k/dsa/tree/master/0520-detect-capital) |
 | [2390-removing-stars-from-a-string](https://github.com/abhiragini-k/dsa/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhiragini-k/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -75,6 +76,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhiragini-k/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/abhiragini-k/dsa/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/abhiragini-k/dsa/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/abhiragini-k/dsa/tree/master/0344-reverse-string) |
 ## Recursion
 |  |
 | ------- |

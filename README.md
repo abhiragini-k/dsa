@@ -33,6 +33,7 @@ Tracking my dsa journey and motivate myself to be consistent
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/abhiragini-k/dsa/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhiragini-k/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/abhiragini-k/dsa/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/abhiragini-k/dsa/tree/master/0344-reverse-string) |
@@ -52,6 +53,7 @@ Tracking my dsa journey and motivate myself to be consistent
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/abhiragini-k/dsa/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhiragini-k/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/abhiragini-k/dsa/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/abhiragini-k/dsa/tree/master/0075-sort-colors) |
@@ -188,4 +190,8 @@ Tracking my dsa journey and motivate myself to be consistent
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abhiragini-k/dsa/tree/master/0204-count-primes) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/abhiragini-k/dsa/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

@@ -9,6 +9,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0009-palindrome-number](https://github.com/abhiragini-k/dsa/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/abhiragini-k/dsa/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/abhiragini-k/dsa/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/abhiragini-k/dsa/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/abhiragini-k/dsa/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/abhiragini-k/dsa/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/abhiragini-k/dsa/tree/master/0509-fibonacci-number) |
@@ -53,6 +54,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0075-sort-colors](https://github.com/abhiragini-k/dsa/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhiragini-k/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/abhiragini-k/dsa/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/abhiragini-k/dsa/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhiragini-k/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0486-predict-the-winner](https://github.com/abhiragini-k/dsa/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhiragini-k/dsa/tree/master/0628-maximum-product-of-three-numbers) |
@@ -161,4 +163,24 @@ Tracking my dsa journey and motivate myself to be consistent
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhiragini-k/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abhiragini-k/dsa/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abhiragini-k/dsa/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abhiragini-k/dsa/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abhiragini-k/dsa/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abhiragini-k/dsa/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

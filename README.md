@@ -39,6 +39,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0205-isomorphic-strings](https://github.com/abhiragini-k/dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abhiragini-k/dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/abhiragini-k/dsa/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/abhiragini-k/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/abhiragini-k/dsa/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/abhiragini-k/dsa/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/abhiragini-k/dsa/tree/master/1903-largest-odd-number-in-string) |
@@ -101,6 +102,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0169-majority-element](https://github.com/abhiragini-k/dsa/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhiragini-k/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/abhiragini-k/dsa/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/abhiragini-k/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhiragini-k/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhiragini-k/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhiragini-k/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -110,6 +112,7 @@ Tracking my dsa journey and motivate myself to be consistent
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhiragini-k/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/abhiragini-k/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhiragini-k/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
@@ -121,12 +124,14 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0169-majority-element](https://github.com/abhiragini-k/dsa/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/abhiragini-k/dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abhiragini-k/dsa/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/abhiragini-k/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhiragini-k/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/abhiragini-k/dsa/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhiragini-k/dsa/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/abhiragini-k/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhiragini-k/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -201,4 +206,8 @@ Tracking my dsa journey and motivate myself to be consistent
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhiragini-k/dsa/tree/master/0014-longest-common-prefix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/abhiragini-k/dsa/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->

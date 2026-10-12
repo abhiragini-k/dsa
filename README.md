@@ -39,6 +39,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0205-isomorphic-strings](https://github.com/abhiragini-k/dsa/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/abhiragini-k/dsa/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/abhiragini-k/dsa/tree/master/0520-detect-capital) |
+| [0796-rotate-string](https://github.com/abhiragini-k/dsa/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/abhiragini-k/dsa/tree/master/1903-largest-odd-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/abhiragini-k/dsa/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhiragini-k/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -160,6 +161,7 @@ Tracking my dsa journey and motivate myself to be consistent
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhiragini-k/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/abhiragini-k/dsa/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |

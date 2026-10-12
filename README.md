@@ -37,6 +37,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhiragini-k/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/abhiragini-k/dsa/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/abhiragini-k/dsa/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/abhiragini-k/dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/abhiragini-k/dsa/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/abhiragini-k/dsa/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/abhiragini-k/dsa/tree/master/0796-rotate-string) |
@@ -99,6 +100,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0075-sort-colors](https://github.com/abhiragini-k/dsa/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/abhiragini-k/dsa/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhiragini-k/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/abhiragini-k/dsa/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhiragini-k/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhiragini-k/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhiragini-k/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -118,6 +120,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | ------- |
 | [0169-majority-element](https://github.com/abhiragini-k/dsa/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/abhiragini-k/dsa/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/abhiragini-k/dsa/tree/master/0242-valid-anagram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhiragini-k/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/abhiragini-k/dsa/tree/master/3731-find-missing-elements) |
 ## Counting

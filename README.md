@@ -36,6 +36,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0014-longest-common-prefix](https://github.com/abhiragini-k/dsa/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhiragini-k/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/abhiragini-k/dsa/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/abhiragini-k/dsa/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/abhiragini-k/dsa/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/abhiragini-k/dsa/tree/master/0520-detect-capital) |
 | [1903-largest-odd-number-in-string](https://github.com/abhiragini-k/dsa/tree/master/1903-largest-odd-number-in-string) |
@@ -115,6 +116,7 @@ Tracking my dsa journey and motivate myself to be consistent
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhiragini-k/dsa/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/abhiragini-k/dsa/tree/master/0205-isomorphic-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhiragini-k/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/abhiragini-k/dsa/tree/master/3731-find-missing-elements) |
 ## Counting

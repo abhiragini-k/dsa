@@ -9,6 +9,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0009-palindrome-number](https://github.com/abhiragini-k/dsa/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/abhiragini-k/dsa/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/abhiragini-k/dsa/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/abhiragini-k/dsa/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abhiragini-k/dsa/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/abhiragini-k/dsa/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/abhiragini-k/dsa/tree/master/0486-predict-the-winner) |
@@ -64,6 +65,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0075-sort-colors](https://github.com/abhiragini-k/dsa/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhiragini-k/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/abhiragini-k/dsa/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/abhiragini-k/dsa/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abhiragini-k/dsa/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhiragini-k/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/abhiragini-k/dsa/tree/master/0217-contains-duplicate) |
@@ -90,6 +92,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhiragini-k/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/abhiragini-k/dsa/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/abhiragini-k/dsa/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/abhiragini-k/dsa/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/abhiragini-k/dsa/tree/master/0344-reverse-string) |
 ## Recursion
 |  |

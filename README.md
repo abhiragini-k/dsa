@@ -62,6 +62,7 @@ Tracking my dsa journey and motivate myself to be consistent
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhiragini-k/dsa/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/abhiragini-k/dsa/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhiragini-k/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/abhiragini-k/dsa/tree/master/0066-plus-one) |
@@ -138,6 +139,7 @@ Tracking my dsa journey and motivate myself to be consistent
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhiragini-k/dsa/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/abhiragini-k/dsa/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/abhiragini-k/dsa/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/abhiragini-k/dsa/tree/master/0217-contains-duplicate) |

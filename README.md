@@ -12,6 +12,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0189-rotate-array](https://github.com/abhiragini-k/dsa/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abhiragini-k/dsa/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/abhiragini-k/dsa/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/abhiragini-k/dsa/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/abhiragini-k/dsa/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/abhiragini-k/dsa/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/abhiragini-k/dsa/tree/master/0509-fibonacci-number) |
@@ -41,6 +42,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0205-isomorphic-strings](https://github.com/abhiragini-k/dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abhiragini-k/dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/abhiragini-k/dsa/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/abhiragini-k/dsa/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/abhiragini-k/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/abhiragini-k/dsa/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/abhiragini-k/dsa/tree/master/0796-rotate-string) |
@@ -55,6 +57,7 @@ Tracking my dsa journey and motivate myself to be consistent
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/abhiragini-k/dsa/tree/master/0412-fizz-buzz) |
 | [2390-removing-stars-from-a-string](https://github.com/abhiragini-k/dsa/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |

@@ -73,6 +73,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0215-kth-largest-element-in-an-array](https://github.com/abhiragini-k/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/abhiragini-k/dsa/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abhiragini-k/dsa/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/abhiragini-k/dsa/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/abhiragini-k/dsa/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhiragini-k/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/abhiragini-k/dsa/tree/master/0704-binary-search) |

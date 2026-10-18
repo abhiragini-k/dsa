@@ -10,6 +10,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0066-plus-one](https://github.com/abhiragini-k/dsa/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/abhiragini-k/dsa/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/abhiragini-k/dsa/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/abhiragini-k/dsa/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/abhiragini-k/dsa/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/abhiragini-k/dsa/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/abhiragini-k/dsa/tree/master/0509-fibonacci-number) |
@@ -66,6 +67,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0204-count-primes](https://github.com/abhiragini-k/dsa/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhiragini-k/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/abhiragini-k/dsa/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/abhiragini-k/dsa/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/abhiragini-k/dsa/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhiragini-k/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/abhiragini-k/dsa/tree/master/0704-binary-search) |
@@ -78,6 +80,7 @@ Tracking my dsa journey and motivate myself to be consistent
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhiragini-k/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/abhiragini-k/dsa/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/abhiragini-k/dsa/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhiragini-k/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
@@ -105,6 +108,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0215-kth-largest-element-in-an-array](https://github.com/abhiragini-k/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/abhiragini-k/dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhiragini-k/dsa/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/abhiragini-k/dsa/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/abhiragini-k/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhiragini-k/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhiragini-k/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -128,6 +132,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0205-isomorphic-strings](https://github.com/abhiragini-k/dsa/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/abhiragini-k/dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhiragini-k/dsa/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/abhiragini-k/dsa/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/abhiragini-k/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhiragini-k/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/abhiragini-k/dsa/tree/master/3731-find-missing-elements) |
@@ -214,4 +219,8 @@ Tracking my dsa journey and motivate myself to be consistent
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/abhiragini-k/dsa/tree/master/0451-sort-characters-by-frequency) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/abhiragini-k/dsa/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

@@ -1,11 +1,13 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        //better approach
-        unordered_set<int> s(nums.begin(),nums.end());
-        for(int i=0;i<=nums.size();i++){
-            if(s.find(i)==s.end()) return i;
+        //optimal approach
+        int n=nums.size();
+        int totalsum=(n*(n+1))/2;
+        int currentsum=0;
+        for(int num:nums){
+            currentsum+=num;
         }
-        return -1;
+        return totalsum-currentsum;
     }
 };

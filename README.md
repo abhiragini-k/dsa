@@ -252,4 +252,8 @@ Tracking my dsa journey and motivate myself to be consistent
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhiragini-k/dsa/tree/master/0020-valid-parentheses) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/abhiragini-k/dsa/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

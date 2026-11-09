@@ -1,13 +1,11 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int count =0;
-        int element;
-        for(int num:nums){
-            if(count==0) element=num;
-            if(num==element) count++;
-            else count--;
+        unordered_map<int,int> hash;
+        for(int i=0;i<nums.size();i++) hash[nums[i]]++;
+        for(auto it:hash){
+            if(it.second>nums.size()/2) return it.first;
         }
-        return element;
+        return -1;
     }
 };

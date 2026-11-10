@@ -7,12 +7,8 @@ public:
             if(count==0){
                 ele=nums[i];
                 count=1;
-            }else if(ele==nums[i]){
-                count=count+1;
-            }
-            else{
-                count--;
-            }
+            }else if(ele==nums[i]) count++;
+            else count--;
         }
         return ele;
     }

@@ -1,11 +1,19 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        unordered_map<int,int> hash;
-        for(int i=0;i<nums.size();i++) hash[nums[i]]++;
-        for(auto it:hash){
-            if(it.second>nums.size()/2) return it.first;
+        //moore's voting algo
+        int ele, count=0;
+        for(int i=0;i<nums.size();i++){
+            if(count==0){
+                ele=nums[i];
+                count=1;
+            }else if(ele==nums[i]){
+                count=count+1;
+            }
+            else{
+                count--;
+            }
         }
-        return -1;
+        return ele;
     }
 };

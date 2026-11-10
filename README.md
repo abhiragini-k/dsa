@@ -59,6 +59,7 @@ Tracking my dsa journey and motivate myself to be consistent
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/abhiragini-k/dsa/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/abhiragini-k/dsa/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/abhiragini-k/dsa/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhiragini-k/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -69,6 +70,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0001-two-sum](https://github.com/abhiragini-k/dsa/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/abhiragini-k/dsa/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhiragini-k/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0054-spiral-matrix](https://github.com/abhiragini-k/dsa/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/abhiragini-k/dsa/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/abhiragini-k/dsa/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhiragini-k/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -259,4 +261,8 @@ Tracking my dsa journey and motivate myself to be consistent
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhiragini-k/dsa/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/abhiragini-k/dsa/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

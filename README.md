@@ -7,6 +7,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | ------- |
 | [0007-reverse-integer](https://github.com/abhiragini-k/dsa/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/abhiragini-k/dsa/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/abhiragini-k/dsa/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/abhiragini-k/dsa/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/abhiragini-k/dsa/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/abhiragini-k/dsa/tree/master/0189-rotate-array) |
@@ -72,6 +73,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0001-two-sum](https://github.com/abhiragini-k/dsa/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/abhiragini-k/dsa/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhiragini-k/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/abhiragini-k/dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abhiragini-k/dsa/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/abhiragini-k/dsa/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/abhiragini-k/dsa/tree/master/0075-sort-colors) |
@@ -268,5 +270,6 @@ Tracking my dsa journey and motivate myself to be consistent
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/abhiragini-k/dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abhiragini-k/dsa/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

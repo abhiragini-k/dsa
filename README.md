@@ -76,6 +76,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0048-rotate-image](https://github.com/abhiragini-k/dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abhiragini-k/dsa/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/abhiragini-k/dsa/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/abhiragini-k/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/abhiragini-k/dsa/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/abhiragini-k/dsa/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/abhiragini-k/dsa/tree/master/0119-pascals-triangle-ii) |
@@ -157,6 +158,7 @@ Tracking my dsa journey and motivate myself to be consistent
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhiragini-k/dsa/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/abhiragini-k/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/abhiragini-k/dsa/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/abhiragini-k/dsa/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/abhiragini-k/dsa/tree/master/0217-contains-duplicate) |
@@ -272,4 +274,5 @@ Tracking my dsa journey and motivate myself to be consistent
 | ------- |
 | [0048-rotate-image](https://github.com/abhiragini-k/dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abhiragini-k/dsa/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/abhiragini-k/dsa/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->

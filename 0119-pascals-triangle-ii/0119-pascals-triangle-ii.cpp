@@ -13,8 +13,8 @@ public:
     vector<int> getRow(int rowIndex) {
         vector<int> ans;
         ans.push_back(1);
-            for(int j=1;j<=rowIndex;j++){
-                int it=findncr(rowIndex,j);
+            for(int i=1;i<=rowIndex;i++){
+                int it=findncr(rowIndex,i);
                 ans.push_back(it);
             }
         

@@ -281,4 +281,12 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0048-rotate-image](https://github.com/abhiragini-k/dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abhiragini-k/dsa/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/abhiragini-k/dsa/tree/master/0073-set-matrix-zeroes) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/abhiragini-k/dsa/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/abhiragini-k/dsa/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

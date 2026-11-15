@@ -92,6 +92,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0283-move-zeroes](https://github.com/abhiragini-k/dsa/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/abhiragini-k/dsa/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/abhiragini-k/dsa/tree/master/0486-predict-the-winner) |
+| [0540-single-element-in-a-sorted-array](https://github.com/abhiragini-k/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhiragini-k/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/abhiragini-k/dsa/tree/master/0704-binary-search) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhiragini-k/dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -108,6 +109,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhiragini-k/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/abhiragini-k/dsa/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/abhiragini-k/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/abhiragini-k/dsa/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhiragini-k/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers

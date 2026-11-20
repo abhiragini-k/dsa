@@ -24,6 +24,7 @@ Tracking my dsa journey and motivate myself to be consistent
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhiragini-k/dsa/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/abhiragini-k/dsa/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/abhiragini-k/dsa/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/abhiragini-k/dsa/tree/master/0119-pascals-triangle-ii) |
@@ -76,6 +77,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0018-4sum](https://github.com/abhiragini-k/dsa/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhiragini-k/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/abhiragini-k/dsa/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/abhiragini-k/dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/abhiragini-k/dsa/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/abhiragini-k/dsa/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/abhiragini-k/dsa/tree/master/0073-set-matrix-zeroes) |
@@ -132,6 +134,7 @@ Tracking my dsa journey and motivate myself to be consistent
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhiragini-k/dsa/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/abhiragini-k/dsa/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhiragini-k/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting

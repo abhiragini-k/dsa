@@ -1,13 +1,21 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        unordered_map<int,int> mpp;
+        //moore's algo
+        int ele , count=0;
         for(int i=0;i<nums.size();i++){
-            mpp[nums[i]]+=1;
+            if(count==0){
+                ele=nums[i];
+                count=1;
+            }
+            else if(nums[i]==ele) count++;
+            else count--;
         }
-        for(auto it:mpp){
-            if(it.second>nums.size()/2) return it.first;
+        int count1=0;
+        for(int i=0;i<nums.size();i++){
+            if(nums[i]==ele) count1++;
         }
-        return -1;
+        if(count1>nums.size()/2) return ele;
+        else return -1;
     }
 };

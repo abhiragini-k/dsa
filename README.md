@@ -91,6 +91,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0204-count-primes](https://github.com/abhiragini-k/dsa/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhiragini-k/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/abhiragini-k/dsa/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/abhiragini-k/dsa/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/abhiragini-k/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abhiragini-k/dsa/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/abhiragini-k/dsa/tree/master/0485-max-consecutive-ones) |
@@ -148,6 +149,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0169-majority-element](https://github.com/abhiragini-k/dsa/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhiragini-k/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/abhiragini-k/dsa/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/abhiragini-k/dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/abhiragini-k/dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhiragini-k/dsa/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/abhiragini-k/dsa/tree/master/0451-sort-characters-by-frequency) |
@@ -175,6 +177,7 @@ Tracking my dsa journey and motivate myself to be consistent
 | [0169-majority-element](https://github.com/abhiragini-k/dsa/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/abhiragini-k/dsa/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/abhiragini-k/dsa/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/abhiragini-k/dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/abhiragini-k/dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhiragini-k/dsa/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/abhiragini-k/dsa/tree/master/0451-sort-characters-by-frequency) |
@@ -186,6 +189,7 @@ Tracking my dsa journey and motivate myself to be consistent
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhiragini-k/dsa/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/abhiragini-k/dsa/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/abhiragini-k/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhiragini-k/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
@@ -282,6 +286,7 @@ Tracking my dsa journey and motivate myself to be consistent
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhiragini-k/dsa/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/abhiragini-k/dsa/tree/master/0229-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |
